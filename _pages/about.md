@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Bonjour, un peu sur moi
 
-Je suis Dr Fatiha BENDAIDA, professeure d’informatique dans l’enseignement secondaire qualifiant, passionnée par la pédagogie, la programmation et les bases de données.
+Je suis Dr Fatiha BENDAIDA, professeure de l’enseignement Secondaire Qualifiant de l’informatique, passionnée par la pédagogie, la recherche, la programmation et les bases de données.
 Titulaire d’un doctorat en informatique et mathématiques appliquées, j’enseigne aujourd’hui aussi bien dans le secondaire que dans l’enseignement supérieur, notamment en classes préparatoires au BTS et à l’université.
 
 ### Thèmes de recherche:
