@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-
-#Actuellement, je suis **Dr. Fatiha BENDAIDA**, professeur de l’enseignement secondaire qualifiant en informatique. Je suis titulaire d’un **doctorat en informatique et mathématiques appliquées**.
-
 Thèmes de recherche:
 ======
 * Traitement et reconstruction des images
