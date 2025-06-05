@@ -6,7 +6,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2025-01-01
 venue: 'Mathematical Foundations of Computing,'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.3934/mfc.2025003'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'BENDAIDA Fatiha, KARAMI Fahd, et MESKINE Driss. Nonlocal p-Biharmonic model for Cauchy noise removal. Mathematical Foundations of Computing, 2025. https://doi.org/10.3934/mfc.2025003.'
