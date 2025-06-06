@@ -10,7 +10,7 @@ author_profile: true
 
 ---
 <details>
-<summary>📚 Module : Algorithmique</summary>
+<summary>📚 Algorithmique</summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/algo1.pdf">Les éléments de base d’un algorithme</a> | <a href="https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%201.pdf">TD</a></li>
@@ -25,7 +25,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Module : Programmation en C</summary>
+<summary>📚 Programmation en C</summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/c1.pdf">Introduction</a></li>
@@ -49,7 +49,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Module : Programmation en python</summary>
+<summary>📚 Programmation en python</summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/p1.pdf">Introduction</a> | <a href="https://fBendaida.github.io/files/ptp1.pdf">TP</a></li>
@@ -67,7 +67,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Module : Programmation Orienté Objet Java </summary>
+<summary>📚 Programmation Orienté Objet Java </summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage et polymorphisme</a> | <a href="https://fBendaida.github.io/files/TP%20N2.pdf">TP</a></li>
@@ -88,7 +88,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Module : Programmation C avancée</summary>
+<summary>📚 Programmation C avancée</summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
@@ -101,7 +101,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Module : Analyse et conception des systèmes  d’information</summary>
+<summary>📚 Analyse et conception des systèmes  d’information</summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/merise1.pdf">La méthode Merise </a> </li>
@@ -117,7 +117,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Module : Le langage SQL</summary>
+<summary>📚 Le langage SQL</summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/Sql1.pdf">Introduction</a> </li>
