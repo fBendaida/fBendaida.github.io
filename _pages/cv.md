@@ -15,21 +15,19 @@ redirect_from:
 * 2015: Licence professionnelle en ingénierie des systèmes informatiques et logiciels, École Supérieure de Technologie, Essaouira, Université Cadi Ayyad.
 * 2013: Diplôme universitaire de technologie en Génie Informatique, École Supérieure de Technologie, Essaouira, Université Cadi Ayyad.
 * 2011: Baccalauréat en Sciences mathématique A, Lycée Med 5, Essaouira.
+
 ### Expérience d’enseignement:
 * 2024–2025 – Enseignante en Classes préparatoires au BTS, Essaouira
-
-1ère année Développement Web full stack : Algorithmique et programmation (C, Python), Modélisation de données et SQL
-
-2e année Multimédia et conception Web : Programmation Java, Bases de données 
-
+** 1ère année Développement Web full stack : Algorithmique et programmation (C, Python), Modélisation de données et SQL
+** 2e année Multimédia et conception Web : Programmation Java, Bases de données 
 * Depuis 2017 – Professeure d’informatique, Enseignement secondaire qualifiant Académie Régionale Marrakech-Safi, Délégation Essaouira
 
-* 2023–2024 – Vacations universitaires 
+* 2023–2024 – Vacations universitaires :
 Module JEE, Licence Professionnelle ISIL,
-École Supérieure de Technologie d’Essaouira – Université Cadi Ayyad
+EST Essaouira – Université Cadi Ayyad
 
-* 2021–2022 – Vacations universitaires 
-Module Python pour la science des données, DUT Informatique décisionnelle
+* 2021–2022 – Vacations universitaires :
+Module Python pour la science des données, DUT Informatique décisionnelle,
 EST Essaouira – Université Cadi Ayyad
 
 ### Domaines de Compétences:
@@ -45,5 +43,6 @@ EST Essaouira – Université Cadi Ayyad
 * Serveurs : GlassFish, TomCat, Apache, JBOSS.
 * Bureautique : Word, Excel, Power Point, Access
 * Autres : Informatique décisionnelle, Odoo (open Erp), SPSS, Traitement des fichiers XML, Data Minning, Latex.
+
 #### Compétences Mathématiques :
 * Analyse numérique, Probabilité et statistique, Algèbre linéaire, Recherche opérationnelle, Traitement d’images, Théorie des graphes.
