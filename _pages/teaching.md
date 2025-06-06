@@ -12,9 +12,7 @@ author_profile: true
 <details>
 <summary>📚 Module : Algorithmique</summary>
 
-#### Chapitre 1 : Les éléments de base d’un algorithme
-- 📄 [Cours PDF](https://fBendaida.github.io/files/algo1.pdf)
-- 📄 [TD 1 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%201.pdf)
+- 📄 [Les éléments de base d’un algorithme](https://fBendaida.github.io/files/algo1.pdf)| [TD PDF (https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%201.pdf)
 
 #### Chapitre 2 : Les structures alternatives et répétitives
 - 📄 [Cours PDF](https://fBendaida.github.io/files/algo2.pdf)
