@@ -9,21 +9,29 @@ author_profile: true
 
 ----------
 ##  Enseignements en classes préparatoires au BTS — Essaouira
-### Module : Algorithmique
+<details>
+<summary>📚 Module : Algorithmique</summary>
+
 #### Chapitre 1 : Les éléments de base d’un algorithme
 - 📄 [Cours PDF](https://fBendaida.github.io/files/algo1.pdf)
-- 📄 [TD 1 PDF](https://fBendaida.github.io/files/Travaux Dirigés 1.pdf)
+- 📄 [TD 1 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%201.pdf)
 
 #### Chapitre 2 : Les structures alternatives et répétitives
 - 📄 [Cours PDF](https://fBendaida.github.io/files/algo2.pdf)
-- 📄 [TD 2 PDF](https://fBendaida.github.io/files/Travaux Dirigés2.pdf)
+- 📄 [TD 2 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s2.pdf)
   
 #### Chapitre 3 : Les tableaux et les fonctions
 - 📄 [Cours PDF](https://fBendaida.github.io/files/algo3.pdf)
-- 📄 [TD 3 PDF](https://fBendaida.github.io/files/Travaux Dirigés 3.pdf)
-- 📄 [TD 4 PDF](https://fBendaida.github.io/files/Travaux Dirigés 4.pdf)
+- 📄 [TD 3 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%203.pdf)
+- 📄 [TD 4 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%204.pdf)
 
-### Module : Programmation en C
+</details>
+
+---
+
+<details>
+<summary>📚 Module : Programmation en C</summary>
+
 #### Chapitre 1 : Introduction
 - 📄 [Cours PDF](https://fBendaida.github.io/files/c1.pdf)
 
@@ -43,13 +51,14 @@ author_profile: true
 - 📄 [Cours PDF](https://fBendaida.github.io/files/c5.pdf)
 - 📄 [TP PDF](https://fBendaida.github.io/files/TP7.pdf)
 
-#### Chapitre 4 : Les structures
+#### Chapitre 6 : Les structures
 - 📄 [Cours PDF](https://fBendaida.github.io/files/c6.pdf)
 - 📄 [TP PDF](https://fBendaida.github.io/files/TP8.pdf)
 
-#### Chapitre 4 : Les fichiers
+#### Chapitre 7 : Les fichiers
 - 📄 [Cours PDF](https://fBendaida.github.io/files/c7.pdf)
 - 📄 [TP PDF](https://fBendaida.github.io/files/TP9.pdf)
 
+</details>
 
 ## Enseignements à l'École Supérieure de Technologie (EST) — Essaouira
