@@ -117,7 +117,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Le langage SQL</summary>
+<summary>📚 Système de Gestion de Base de Données</summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/Sql1.pdf">Introduction</a> </li>
