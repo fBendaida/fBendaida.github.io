@@ -67,7 +67,7 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Module : Programmation Java </summary>
+<summary>📚 Module : Programmation Orienté Objet Java </summary>
 
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage et polymorphisme</a> | <a href="https://fBendaida.github.io/files/TP%20N2.pdf">TP</a></li>
@@ -84,6 +84,20 @@ author_profile: true
 
 </details>
 
+
+---
+
+<details>
+<summary>📚 Module : Programmation C avancée</summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
+
+  <li>📄 <a href="https://fBendaida.github.io/files/tpPile.pdf">Atelier : Les piles en Langage C </a> </li>
+
+</ul>
+
+</details>
 ---
 
 <details>
