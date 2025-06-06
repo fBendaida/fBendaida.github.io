@@ -79,6 +79,25 @@ author_profile: true
 </details>
 
 
+---
+
+<details>
+<summary>📚 Module : Programmation Java </summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage et polymorphisme</a> | <a href="https://fBendaida.github.io/files/TP%20N2.pdf">TP</a></li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/collections.pdf">Les collections</a></li>
+
+<li>📄 <a href="https://fBendaida.github.io/files/exceptions.pdf">Les exceptions</a>  | <a href="https://fBendaida.github.io/files/TP%20Exception.pdf">TP</a></li>
+
+  <li>📄 <a href="https://fBendaida.github.io/files/fichier.pdf">Les fichiers</a></li>
+
+  <li>📄 <a href="https://fBendaida.github.io/files/atelier.pdf">Atelier</a> </li>
+  
+</ul>
+
+</details>
 
 ---
 
