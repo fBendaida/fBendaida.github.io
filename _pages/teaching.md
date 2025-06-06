@@ -79,3 +79,20 @@ author_profile: true
 </details>
 
 
+
+---
+
+<details>
+<summary>📚 Module : Analyse et conception des systèmes  d’information</summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/merise1.pdf">La méthode Merise </a> </li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/MCD.pdf">MCD</a>  | <a href="https://fBendaida.github.io/files/TDMCD.pdf">TD</a></li>
+
+<li>📄 <a href="https://fBendaida.github.io/files/MLD.pdf">MLD</a>  | <a href="https://fBendaida.github.io/files/TDMLD.pdf">TD</a></li>
+</ul>
+
+</details>
+
+
