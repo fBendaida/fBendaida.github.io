@@ -19,7 +19,8 @@ Titulaire d’un doctorat en informatique et mathématiques appliquées, j’ens
 
 ### Intérêts de recherche :
 
-Traitement d’images, équations aux dérivées partielles (EDP), débruitage d’images, la super-résolution, la décomposition des images, bruit de Cauchy, bruit mixte, bruit additif gaussien, ordre élevé, méthode du gradient accéléré de Nesterov, gradient descente, norme faible, texture, non local, p-Laplacien, variable exposant, algorithme numérique.
+Mes travaux se concentrent sur le traitement d’images via les équations aux dérivées partielles (EDP), en particulier pour le débruitage, la super-résolution et la décomposition d’images.
+Je m’intéresse aux différents types de bruit (Cauchy, additif gaussien, bruit mixte) et aux méthodes numériques avancées comme le gradient accéléré de Nesterov, les modèles à ordre supérieur, le p-Laplacien à exposant variable, ainsi que les approches non locales et la modélisation de textures.
 
 ---
 Toujours curieuse et engagée dans la transmission des savoirs, je participe régulièrement à des activités pédagogiques, des formations, et des projets numériques.
