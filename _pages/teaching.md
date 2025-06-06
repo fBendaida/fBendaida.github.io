@@ -12,18 +12,32 @@ author_profile: true
 <details>
 <summary>📚 Module : Algorithmique</summary>
 
-- 📄 [Les éléments de base d’un algorithme](https://fBendaida.github.io/files/algo1.pdf)| [TD PDF (https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%201.pdf)
+<ul>
+<li><strong>Chapitre 1 : Les éléments de base d’un algorithme</strong>
+  <ul>
+    <li>📄 <a href="https://fBendaida.github.io/files/algo1.pdf">Cours PDF</a></li>
+    <li>📄 <a href="https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%201.pdf">TD 1 PDF</a></li>
+  </ul>
+</li>
 
-#### Chapitre 2 : Les structures alternatives et répétitives
-- 📄 [Cours PDF](https://fBendaida.github.io/files/algo2.pdf)
-- 📄 [TD 2 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s2.pdf)
-  
-#### Chapitre 3 : Les tableaux et les fonctions
-- 📄 [Cours PDF](https://fBendaida.github.io/files/algo3.pdf)
-- 📄 [TD 3 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%203.pdf)
-- 📄 [TD 4 PDF](https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%204.pdf)
+<li><strong>Chapitre 2 : Les structures alternatives et répétitives</strong>
+  <ul>
+    <li>📄 <a href="https://fBendaida.github.io/files/algo2.pdf">Cours PDF</a></li>
+    <li>📄 <a href="https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s2.pdf">TD 2 PDF</a></li>
+  </ul>
+</li>
+
+<li><strong>Chapitre 3 : Les tableaux et les fonctions</strong>
+  <ul>
+    <li>📄 <a href="https://fBendaida.github.io/files/algo3.pdf">Cours PDF</a></li>
+    <li>📄 <a href="https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%203.pdf">TD 3 PDF</a></li>
+    <li>📄 <a href="https://fBendaida.github.io/files/Travaux%20Dirig%C3%A9s%204.pdf">TD 4 PDF</a></li>
+  </ul>
+</li>
+</ul>
 
 </details>
+
 
 ---
 
