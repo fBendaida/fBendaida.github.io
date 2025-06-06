@@ -17,17 +17,18 @@ redirect_from:
 * 2011: Baccalauréat en Sciences mathématique A, Lycée Med 5, Essaouira.
 
 ### Expérience d’enseignement:
-* 2024–2025 – Enseignante en Classes préparatoires au BTS, Essaouira
-** 1ère année Développement Web full stack : Algorithmique et programmation (C, Python), Modélisation de données et SQL
-** 2e année Multimédia et conception Web : Programmation Java, Bases de données 
-* Depuis 2017 – Professeure d’informatique, Enseignement secondaire qualifiant Académie Régionale Marrakech-Safi, Délégation Essaouira
+#### 2024–2025 – Enseignante en Classes préparatoires au BTS, Essaouira
+ * 1ère année Développement Web full stack : Algorithmique et programmation (C, Python), Modélisation de données et SQL
+ * 2eme année Multimédia et conception Web : Programmation Java, Bases de données 
+#### Depuis 2017 – Professeure d’informatique
+*Enseignement secondaire qualifiant Académie Régionale Marrakech-Safi, Délégation Essaouira
 
-* 2023–2024 – Vacations universitaires :
-Module JEE, Licence Professionnelle ISIL,
+#### 2023–2024 – Vacations universitaires :
+* Module JEE, Licence Professionnelle ISIL,
 EST Essaouira – Université Cadi Ayyad
 
-* 2021–2022 – Vacations universitaires :
-Module Python pour la science des données, DUT Informatique décisionnelle,
+#### 2021–2022 – Vacations universitaires :
+* Module Python pour la science des données, DUT Informatique décisionnelle et science de données,
 EST Essaouira – Université Cadi Ayyad
 
 ### Domaines de Compétences:
