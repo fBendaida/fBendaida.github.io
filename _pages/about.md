@@ -25,6 +25,6 @@ Mes travaux se concentrent sur le traitement d’images via les équations aux d
 Je m’intéresse aux différents types de bruit (Cauchy, additif gaussien, bruit mixte) et aux méthodes numériques avancées comme le gradient accéléré de Nesterov, les modèles à ordre supérieur, le p-Laplacien à exposant variable, ainsi que les approches non locales et la modélisation de textures.
 
 ---
-Toujours curieuse et engagée dans la transmission des savoirs, je participe régulièrement à des activités pédagogiques, des formations, et des projets numériques.
+Toujours curieuse et engagée dans la recherche et la transmission des savoirs, je participe régulièrement à des activités pédagogiques, des formations, et des projets numériques.
 
 Bienvenue sur ma page personnelle !
