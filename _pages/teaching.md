@@ -7,6 +7,7 @@ author_profile: true
 
 
 
+---
 <details>
 <summary>📚 Module : Algorithmique</summary>
 
