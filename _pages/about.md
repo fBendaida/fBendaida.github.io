@@ -9,6 +9,7 @@ redirect_from:
 ## Bonjour, un peu sur moi:
 
 Je suis Dr Fatiha BENDAIDA, professeure de l’enseignement Secondaire Qualifiant de l’informatique, passionnée par la pédagogie, la recherche, la programmation et les bases de données.
+
 Titulaire d’un doctorat en informatique et mathématiques appliquées, j’enseigne aujourd’hui aussi bien dans le secondaire que dans l’enseignement supérieur, notamment en classes préparatoires au BTS et à l’université.
 
 ### Thèmes de recherche:
@@ -20,6 +21,7 @@ Titulaire d’un doctorat en informatique et mathématiques appliquées, j’ens
 ### Intérêts de recherche :
 
 Mes travaux se concentrent sur le traitement d’images via les équations aux dérivées partielles (EDP), en particulier pour le débruitage, la super-résolution et la décomposition d’images.
+
 Je m’intéresse aux différents types de bruit (Cauchy, additif gaussien, bruit mixte) et aux méthodes numériques avancées comme le gradient accéléré de Nesterov, les modèles à ordre supérieur, le p-Laplacien à exposant variable, ainsi que les approches non locales et la modélisation de textures.
 
 ---
