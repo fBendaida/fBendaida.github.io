@@ -67,13 +67,13 @@ author_profile: true
 <summary>📚 Module : Programmation en python</summary>
 
 <ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/p1.pdf">Introduction</a> | <a href="https://fBendaida.github.io/files/ptp1.pdf">TP</li>
+  <li>📄 <a href="https://fBendaida.github.io/files/p1.pdf">Introduction</a> | <a href="https://fBendaida.github.io/files/ptp1.pdf">TP</a></li>
   
-  <li>📄 <a href="https://fBendaida.github.io/files/p2.pdf">Les listes et les Tuples</a>  | <a href="https://fBendaida.github.io/files/ptp2.pdf">TP</li>
+  <li>📄 <a href="https://fBendaida.github.io/files/p2.pdf">Les listes et les Tuples</a>  | <a href="https://fBendaida.github.io/files/ptp2.pdf">TP</a></li>
 
-  <li>📄 <a href="https://fBendaida.github.io/files/p3.pdf">Les chaînes de caractères et les dictionnaires</a> | <a href="https://fBendaida.github.io/files/ptp3.pdf">TP </li>
+  <li>📄 <a href="https://fBendaida.github.io/files/p3.pdf">Les chaînes de caractères et les dictionnaires</a> | <a href="https://fBendaida.github.io/files/ptp3.pdf">TP</a> </li>
   
-  <li>📄 <a href="https://fBendaida.github.io/files/p4.pdf">Les fichiers sous Python</a>  | <a href="https://fBendaida.github.io/files/ptp4.pdf">TP</li>
+  <li>📄 <a href="https://fBendaida.github.io/files/p4.pdf">Les fichiers sous Python</a>  | <a href="https://fBendaida.github.io/files/ptp4.pdf">TP</a></li>
 </ul>
 
 </details>
