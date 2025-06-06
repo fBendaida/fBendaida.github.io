@@ -1,27 +1,28 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Activités pédagogiques"
 permalink: /teaching/
 author_profile: true
 ---
 
 
-2023/2024 & 2024/2025:
+
 ----------
-## Refresher in Matrix Analysis and Numerical Optimization: 
-Master 2 MSIAM/MOSIG Data Science/etc. – Univ. Grenoble Alpes – (EN)
-Reminder in Matrix analysis and optimization. (To be updated).
+##  Enseignements en classes préparatoires au BTS — Essaouira
+#### Chapitre 1 : Les éléments de base d’un algorithme!
+- 📄 [Cours PDF](https://efBendaida.github.io/files/algo1.pdf)
+- 📄 [TD 1 PDF](Travaux Dirigés 1.pdf)
 
-* Practical session: [Github](https://github.com/enhamza/refresher).
-* Exercices: [Session 1](https://enhamza.github.io/files/Matrix.pdf) - [Session 2](https://enhamza.github.io/files/Optimization.pdf).
-* Useful links & references:
+ #### Chapitre 2 : Les structures alternatives et répétitives
+- 📄 [Cours PDF](https://efBendaida.github.io/files/algo2.pdf)
+- 📄 [TD 2 PDF](Travaux Dirigés2.pdf)
   
-  	- Horn, R. & Johnson, C.: Matrix analysis.
-  	- J.-B. Hiriart-Urruty and C. Lemaréchal. Fundamentals of Convex Analysis.
-  	- S. Boyd and L. Vandenberghe. Convex optimization.
-  	- Bubeck, S.: Convex Optimization: Algorithms and Complexity [Link](https://arxiv.org/pdf/1405.4980).
+#### Chapitre 3 : Les tableaux et les fonctions
+- 📄 [Cours PDF](https://efBendaida.github.io/files/algo3.pdf)
+- 📄 [TD 3 PDF](Travaux Dirigés 3.pdf)
+- 📄 [TD 4 PDF](Travaux Dirigés 4.pdf)
 
-## Analyse pour l'ingénieur: Ensimag - Alternance $1^\text{ère}$ année.
+## Enseignements à l'École Supérieure de Technologie (EST) — Essaouira
 Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de l'Ensimag en altérence. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
 
 * Notes de cours : [PDF](https://enhamza.github.io/files/Main.pdf).
