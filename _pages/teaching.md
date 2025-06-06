@@ -45,21 +45,6 @@ author_profile: true
 
 </details>
 
----
-
-<details>
-<summary>📚 Module : Le langage SQL</summary>
-
-<ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/Sql1.pdf">Introduction</a> </li>
-  
-  <li>📄 <a href="https://fBendaida.github.io/files/Sql2.pdf">LMD</a> </li>
-  
-  <li>📄 <a href="https://fBendaida.github.io/files/TPSql.pdf">TD/TP</a> </li>
-</ul>
-
-</details>
-
 
 ---
 
@@ -114,4 +99,19 @@ author_profile: true
 
 </details>
 
+
+---
+
+<details>
+<summary>📚 Module : Le langage SQL</summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/Sql1.pdf">Introduction</a> </li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/Sql2.pdf">LMD</a> </li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/TPSql.pdf">TD/TP</a> </li>
+</ul>
+
+</details>
 
