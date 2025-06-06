@@ -9,7 +9,7 @@ author_profile: true
 
 ----------
 ##  Enseignements en classes préparatoires au BTS — Essaouira
-## Module : Algorithmique
+### Module : Algorithmique
 #### Chapitre 1 : Les éléments de base d’un algorithme
 - 📄 [Cours PDF](https://fBendaida.github.io/files/algo1.pdf)
 - 📄 [TD 1 PDF](https://fBendaida.github.io/files/Travaux Dirigés 1.pdf)
@@ -23,7 +23,7 @@ author_profile: true
 - 📄 [TD 3 PDF](https://fBendaida.github.io/files/Travaux Dirigés 3.pdf)
 - 📄 [TD 4 PDF](https://fBendaida.github.io/files/Travaux Dirigés 4.pdf)
 
-## Module : Programmation en C
+### Module : Programmation en C
 #### Chapitre 1 : Introduction
 - 📄 [Cours PDF](https://fBendaida.github.io/files/c1.pdf)
 
