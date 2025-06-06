@@ -19,7 +19,7 @@ redirect_from:
 ### Expérience d’enseignement:
 #### 2024–2025 – Enseignante en Classes préparatoires au BTS, Essaouira
  * 1ère année Développement Web full stack : Algorithmique et programmation (C, Python), Modélisation de données et SQL
- * 2eme année Multimédia et conception Web : Programmation Java, Bases de données
+ * 2ème année Multimédia et conception Web : Programmation Java, Bases de données
    
 #### Depuis 2017 – Professeure d’informatique
 * Enseignement secondaire qualifiant Académie Régionale Marrakech-Safi, Délégation Essaouira
