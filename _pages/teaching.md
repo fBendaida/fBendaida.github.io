@@ -10,17 +10,17 @@ author_profile: true
 ----------
 ##  Enseignements en classes préparatoires au BTS — Essaouira
 #### Chapitre 1 : Les éléments de base d’un algorithme!
-- 📄 [Cours PDF](https://efBendaida.github.io/files/algo1.pdf)
-- 📄 [TD 1 PDF](Travaux Dirigés 1.pdf)
+- 📄 [Cours PDF](https://fBendaida.github.io/files/algo1.pdf)
+- 📄 [TD 1 PDF](https://fBendaida.github.io/files/Travaux Dirigés 1.pdf)
 
 #### Chapitre 2 : Les structures alternatives et répétitives
-- 📄 [Cours PDF](https://efBendaida.github.io/files/algo2.pdf)
-- 📄 [TD 2 PDF](Travaux Dirigés2.pdf)
+- 📄 [Cours PDF](https://fBendaida.github.io/files/algo2.pdf)
+- 📄 [TD 2 PDF](https://fBendaida.github.io/files/Travaux Dirigés2.pdf)
   
 #### Chapitre 3 : Les tableaux et les fonctions
-- 📄 [Cours PDF](https://efBendaida.github.io/files/algo3.pdf)
-- 📄 [TD 3 PDF](Travaux Dirigés 3.pdf)
-- 📄 [TD 4 PDF](Travaux Dirigés 4.pdf)
+- 📄 [Cours PDF](https://fBendaida.github.io/files/algo3.pdf)
+- 📄 [TD 3 PDF](https://fBendaida.github.io/files/Travaux Dirigés 3.pdf)
+- 📄 [TD 4 PDF](https://fBendaida.github.io/files/Travaux Dirigés 4.pdf)
 
 ## Enseignements à l'École Supérieure de Technologie (EST) — Essaouira
 Ce cours d'Analyse pour l'ingénieur à destination des élèves ingénieurs de l'Ensimag en altérence. Les notes de cours seront mises à jours au fur et à mesure. Des erreurs et coquilles peuvent exister, merci de me les signaler.
