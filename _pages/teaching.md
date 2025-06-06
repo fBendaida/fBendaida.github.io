@@ -13,7 +13,7 @@ author_profile: true
 - 📄 [Cours PDF](https://efBendaida.github.io/files/algo1.pdf)
 - 📄 [TD 1 PDF](Travaux Dirigés 1.pdf)
 
- #### Chapitre 2 : Les structures alternatives et répétitives
+#### Chapitre 2 : Les structures alternatives et répétitives
 - 📄 [Cours PDF](https://efBendaida.github.io/files/algo2.pdf)
 - 📄 [TD 2 PDF](Travaux Dirigés2.pdf)
   
