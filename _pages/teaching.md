@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 
+
 <details>
 <summary>📚 Module : Algorithmique</summary>
 
@@ -38,6 +39,19 @@ author_profile: true
   <li>📄 <a href="https://fBendaida.github.io/files/c6.pdf">Les structures</a> | <a href="https://fBendaida.github.io/files/TP8.pdf">TP</a></li>
   
   <li>📄 <a href="https://fBendaida.github.io/files/c7.pdf">Les fichiers</a> | <a href="https://fBendaida.github.io/files/TP9.pdf">TP</a></li>
+</ul>
+
+</details>
+
+<details>
+<summary>📚 Module : Le langage SQL</summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/Sql1.pdf">Introduction</a> ></li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/Sql2.pdf">LMD</a> </li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/TPSql.pdf">TD/TP</a> </li>
 </ul>
 
 </details>
