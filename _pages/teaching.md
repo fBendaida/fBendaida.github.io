@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Mes supports pédagogiques"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
+### Mes supports pédagogiques
 
 
 ---
