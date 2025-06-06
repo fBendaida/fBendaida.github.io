@@ -6,15 +6,6 @@ author_profile: true
 ---
 
 
-## Sommaire
-
-- [📚 Module : Algorithmique](#module-algorithmique)
-- [📚 Module : Programmation en C](#module-programmation-en-c)
-
----
-
-## Module : Algorithmique
-
 <details>
 <summary>📚 Module : Algorithmique</summary>
 
@@ -29,8 +20,6 @@ author_profile: true
 </details>
 
 ---
-
-## Module : Programmation en C
 
 <details>
 <summary>📚 Module : Programmation en C</summary>
