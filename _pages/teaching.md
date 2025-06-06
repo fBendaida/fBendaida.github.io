@@ -44,6 +44,8 @@ author_profile: true
 
 </details>
 
+---
+
 <details>
 <summary>📚 Module : Le langage SQL</summary>
 
