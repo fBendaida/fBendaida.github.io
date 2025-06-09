@@ -67,23 +67,36 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Programmation Orienté Objet Java </summary>
+<summary>📚 Java Enterprise Edition </summary>
 
 <ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage et polymorphisme</a> | <a href="https://fBendaida.github.io/files/TP%20N2.pdf">TP</a></li>
+  <li>📄 <a href="https://fBendaida.github.io/files/jee1.pdf">Introduction à la programmation JEE</a></li>
   
-  <li>📄 <a href="https://fBendaida.github.io/files/collections.pdf">Les collections</a></li>
+  <li>📄 <a href="https://fBendaida.github.io/files/jee2.pdf">Les servlets</a></li>
 
-<li>📄 <a href="https://fBendaida.github.io/files/exceptions.pdf">Les exceptions</a>  | <a href="https://fBendaida.github.io/files/TP%20Exception.pdf">TP</a></li>
+<li>📄 <a href="https://fBendaida.github.io/files/jee3.pdf">Java Server Pages</a> </li>
 
-  <li>📄 <a href="https://fBendaida.github.io/files/fichier.pdf">Les fichiers</a></li>
 
-  <li>📄 <a href="https://fBendaida.github.io/files/atelier.pdf">Atelier</a> </li>
+  <li>📄 <a href="https://fBendaida.github.io/files/polyjee.pdf">Polycopié</a> </li>
   
 </ul>
 
 </details>
 
+
+---
+
+<details>
+<summary>📚 Programmation C avancée</summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
+
+  <li>📄 <a href="https://fBendaida.github.io/files/tpPile.pdf">Atelier : Les piles en Langage C </a> </li>
+
+</ul>
+
+</details>
 
 ---
 
