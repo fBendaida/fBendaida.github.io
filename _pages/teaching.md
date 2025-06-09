@@ -49,6 +49,24 @@ author_profile: true
 ---
 
 <details>
+<summary>📚 Programmation C avancée</summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
+
+  <li>📄 <a href="https://fBendaida.github.io/files/tpPile.pdf">Atelier : Les piles en Langage C </a> </li>
+
+  <li>📄 <a href="https://fBendaida.github.io/files/atelierSD.pdf">Polycopié</a> </li>
+
+</ul>
+
+</details>
+
+
+---
+
+
+<details>
 <summary>📚 Programmation en python</summary>
 
 <ul>
@@ -59,21 +77,8 @@ author_profile: true
   <li>📄 <a href="https://fBendaida.github.io/files/p3.pdf">Les chaînes de caractères et les dictionnaires</a> | <a href="https://fBendaida.github.io/files/ptp3.pdf">TP</a> </li>
   
   <li>📄 <a href="https://fBendaida.github.io/files/p4.pdf">Les fichiers sous Python</a>  | <a href="https://fBendaida.github.io/files/ptp4.pdf">TP</a></li>
-</ul>
 
-</details>
-
-
----
-
-<details>
-<summary>📚 Programmation C avancée</summary>
-
-<ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
-
-  <li>📄 <a href="https://fBendaida.github.io/files/tpPile.pdf">Atelier : Les piles en Langage C </a> </li>
-
+   <li>📄 <a href="https://fBendaida.github.io/files/polypython.pdf">Polycopié</a></li>
 </ul>
 
 </details>
