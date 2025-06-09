@@ -67,6 +67,20 @@ author_profile: true
 ---
 
 <details>
+<summary>📚 Programmation C avancée</summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
+
+  <li>📄 <a href="https://fBendaida.github.io/files/tpPile.pdf">Atelier : Les piles en Langage C </a> </li>
+
+</ul>
+
+</details>
+
+---
+
+<details>
 <summary>📚 Java Enterprise Edition </summary>
 
 <ul>
@@ -87,13 +101,17 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Programmation C avancée</summary>
+<summary>📚 Programmation Orienté Objet java</summary>
 
 <ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
+  <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage</a></li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/collections.pdf">Les collections</a>  | <a href="https://fBendaida.github.io/files/ptp2.pdf">TP</a></li>
 
-  <li>📄 <a href="https://fBendaida.github.io/files/tpPile.pdf">Atelier : Les piles en Langage C </a> </li>
-
+  <li>📄 <a href="https://fBendaida.github.io/files/Exception.pdf">Les exceptions</a> | <a href="https://fBendaida.github.io/files/TP%20Exception.pdf">TP</a> </li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/fichiers.pdf">Les fichiers</a> </li>
+  <li>📄 <a href="https://fBendaida.github.io/files/atelier.pdf">Atelier</a></li>
 </ul>
 
 </details>
