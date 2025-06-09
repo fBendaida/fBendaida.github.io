@@ -78,25 +78,6 @@ author_profile: true
 
 </details>
 
----
-
-<details>
-<summary>📚 Java Enterprise Edition </summary>
-
-<ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/jee1.pdf">Introduction à la programmation JEE</a></li>
-  
-  <li>📄 <a href="https://fBendaida.github.io/files/jee2.pdf">Les servlets</a></li>
-
-<li>📄 <a href="https://fBendaida.github.io/files/jee3.pdf">Java Server Pages</a> </li>
-
-
-  <li>📄 <a href="https://fBendaida.github.io/files/polyjee.pdf">Polycopié</a> </li>
-  
-</ul>
-
-</details>
-
 
 ---
 
@@ -112,6 +93,24 @@ author_profile: true
   
   <li>📄 <a href="https://fBendaida.github.io/files/fichiers.pdf">Les fichiers</a> </li>
   <li>📄 <a href="https://fBendaida.github.io/files/atelier.pdf">Atelier</a></li>
+</ul>
+
+</details>
+---
+
+<details>
+<summary>📚 Java Enterprise Edition </summary>
+
+<ul>
+  <li>📄 <a href="https://fBendaida.github.io/files/jee1.pdf">Introduction à la programmation JEE</a></li>
+  
+  <li>📄 <a href="https://fBendaida.github.io/files/jee2.pdf">Les servlets</a></li>
+
+<li>📄 <a href="https://fBendaida.github.io/files/jee3.pdf">Java Server Pages</a> </li>
+
+
+  <li>📄 <a href="https://fBendaida.github.io/files/polyjee.pdf">Polycopié</a> </li>
+  
 </ul>
 
 </details>
