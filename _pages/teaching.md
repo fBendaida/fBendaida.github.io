@@ -85,7 +85,7 @@ author_profile: true
 <summary>📚 Programmation Orienté Objet java</summary>
 
 <ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage</a></li>
+  <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage</a>| <a href="https://fBendaida.github.io/files/TP%20N2 .pdf">TP</a> </li>
   
   <li>📄 <a href="https://fBendaida.github.io/files/collections.pdf">Les collections</a> </li>
 
