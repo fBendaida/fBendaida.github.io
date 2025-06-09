@@ -101,19 +101,6 @@ author_profile: true
 ---
 
 <details>
-<summary>📚 Programmation C avancée</summary>
-
-<ul>
-  <li>📄 <a href="https://fBendaida.github.io/files/tpListes.pdf">Atelier : Listes Chaînées en Langage C </a> </li>
-
-  <li>📄 <a href="https://fBendaida.github.io/files/tpPile.pdf">Atelier : Les piles en Langage C </a> </li>
-
-</ul>
-
-</details>
----
-
-<details>
 <summary>📚 Analyse et conception des systèmes  d’information</summary>
 
 <ul>
