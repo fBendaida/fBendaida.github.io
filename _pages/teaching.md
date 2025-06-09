@@ -87,7 +87,7 @@ author_profile: true
 <ul>
   <li>📄 <a href="https://fBendaida.github.io/files/Heritage.pdf">Héritage</a></li>
   
-  <li>📄 <a href="https://fBendaida.github.io/files/collections.pdf">Les collections</a>  | <a href="https://fBendaida.github.io/files/ptp2.pdf">TP</a></li>
+  <li>📄 <a href="https://fBendaida.github.io/files/collections.pdf">Les collections</a> </li>
 
   <li>📄 <a href="https://fBendaida.github.io/files/Exception.pdf">Les exceptions</a> | <a href="https://fBendaida.github.io/files/TP%20Exception.pdf">TP</a> </li>
   
