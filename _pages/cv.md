@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <details open>
-  <summary>🎓 Cursus Universitaire</summary>
+  <summary>🎓 <strong>Cursus Universitaire</strong> </summary>
   <ul>
     <li>2024 : Doctorat en Informatique et Mathématiques Appliquées – FST Marrakech, UCA</li>
     <li>2017 : Master spécialisé – Université Chouaib Doukkali, El Jadida</li>
@@ -20,8 +20,10 @@ redirect_from:
   </ul>
 </details>
 
+---
+
 <details>
-  <summary>💻 Compétences Informatiques</summary>
+  <summary>💻 <strong>Compétences Informatiques</strong> </summary>
   <ul>
     <li><strong>Programmation :</strong> C, C++, Java, Python, C#, Design Patterns, Matlab</li>
     <li><strong>Bases de données :</strong> Access, Oracle (PL-SQL), MySQL, MongoDB, SQL Server</li>
@@ -36,8 +38,10 @@ redirect_from:
   </ul>
 </details>
 
+---
+
 <details>
-  <summary>📐 Compétences Mathématiques</summary>
+  <summary>📐 <strong>Compétences Mathématiques</strong> </summary>
   <ul>
     <li>Analyse numérique, Probabilités, Statistiques</li>
     <li>Algèbre linéaire, Recherche opérationnelle</li>
@@ -46,8 +50,10 @@ redirect_from:
   </ul>
 </details>
 
+---
+
 <details>
-  <summary>🧠 Intelligence Artificielle et Apprentissage Automatique</summary>
+  <summary>🧠 <strong>Intelligence Artificielle et Apprentissage Automatique</strong> </summary>
   <ul>
     <li>Conception de réseaux de neurones convolutifs (CNN)</li>
     <li>Maîtrise d’architectures : ResNet, Deep Image Prior (DIP)</li>
@@ -55,3 +61,4 @@ redirect_from:
     <li>Optimisation de modèles : Nesterov, avec redémarrage, gradient flow, ADMM, Adam</li>
   </ul>
 </details>
+
