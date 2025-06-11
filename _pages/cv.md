@@ -31,4 +31,12 @@ redirect_from:
 * Autres : Informatique décisionnelle, Odoo (open Erp), SPSS, Traitement des fichiers XML, Data Minning, Latex.
 
 #### Compétences Mathématiques :
-* Analyse numérique, Probabilité et statistique, Algèbre linéaire, Recherche opérationnelle, Traitement d’images, Théorie des graphes.
+*  Analyse numérique, Probabilité et statistique, Algèbre linéaire, Recherche opérationnelle, Traitement d’images, Théorie des graphes.
+*  Principes d’optimisation numérique : méthodes de descente, décomposition
+ (ADMM), gradient continu (flow).
+
+#### Compétences en intelligence artificielle et apprentissage automatique :
+* Conception et entraînement de réseaux de neurones convolutifs (CNN).
+* Maîtrise des architectures profondes : ResNet, Deep Image Prior (DIP).
+* Traitement d’images par apprentissage profond.
+* Optimisation des modèles avec des méthodes numériques : descente de gradient et variantes (Nesterov, avec redémarrage), gradient flow, ADMM, Adam.
