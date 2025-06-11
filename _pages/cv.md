@@ -9,34 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-### Cursus Universitaire:
-* 2024: Doctorat en Informatique et Mathématiques Appliquées, Laboratoire de Mathématiques, Informatique et Modélisation des systèmes complexes, CED Sciences et Technique Science Médicales FST Marrakech, Université Cadi Ayyad.
-* 2017: Master spécialisé en ingénierie des systèmes d’information, Faculté des sciences, Université Chouaib Doukkali, El jadida.
-* 2015: Licence professionnelle en ingénierie des systèmes informatiques et logiciels, École Supérieure de Technologie, Essaouira, Université Cadi Ayyad.
-* 2013: Diplôme universitaire de technologie en Génie Informatique, École Supérieure de Technologie, Essaouira, Université Cadi Ayyad.
-* 2011: Baccalauréat en Sciences mathématique A, Lycée Med 5, Essaouira.
+<details open>
+  <summary>🎓 Cursus Universitaire</summary>
+  <ul>
+    <li>2024 : Doctorat en Informatique et Mathématiques Appliquées – FST Marrakech, UCA</li>
+    <li>2017 : Master spécialisé – Université Chouaib Doukkali, El Jadida</li>
+    <li>2015 : Licence professionnelle – EST Essaouira, UCA</li>
+    <li>2013 : DUT Génie Informatique – EST Essaouira, UCA</li>
+    <li>2011 : Baccalauréat Sciences Math A – Lycée Med 5, Essaouira</li>
+  </ul>
+</details>
 
-### Domaines de Compétences:
-#### Compétences Informatiques :
-* Programmation : C, C++, Java, Python, C#, Patrons de conception, Matlab.
-* Base de données : Access, Oracle (PL-SQL), MySQL, MongoDb, SQL Server.
-* Programmation web : HTML, CSS, JEE, PHP, VRML, JEE (JSP/Servlet), JavaScript, NodeJS, Asp.net, Web service.
-* Méthode d’analyse : Merise, UML.
-* Système d’exploitation : Windows, Linux.
-* Frameworks : Django, Symfony, Spring, Hibernate, JSF, Express.
-* Réseau : Adressage, Routage, Administration Systèmes Réseau.
-* Big data : hadoop (HDFS/MapReduce)
-* Serveurs : GlassFish, TomCat, Apache, JBOSS.
-* Bureautique : Word, Excel, Power Point, Access
-* Autres : Informatique décisionnelle, Odoo (open Erp), SPSS, Traitement des fichiers XML, Data Minning, Latex.
+<details>
+  <summary>💻 Compétences Informatiques</summary>
+  <ul>
+    <li><strong>Programmation :</strong> C, C++, Java, Python, C#, Design Patterns, Matlab</li>
+    <li><strong>Bases de données :</strong> Access, Oracle (PL-SQL), MySQL, MongoDB, SQL Server</li>
+    <li><strong>Web :</strong> HTML, CSS, PHP, JEE, JSP/Servlet, JavaScript, NodeJS, ASP.NET, Web services, VRML</li>
+    <li><strong>Analyse :</strong> Merise, UML</li>
+    <li><strong>Systèmes :</strong> Windows, Linux</li>
+    <li><strong>Frameworks :</strong> Django, Symfony, Spring, Hibernate, JSF, Express</li>
+    <li><strong>Réseau :</strong> Adressage, Routage, Admin systèmes</li>
+    <li><strong>Big data :</strong> Hadoop (HDFS, MapReduce)</li>
+    <li><strong>Serveurs :</strong> GlassFish, Tomcat, Apache, JBOSS</li>
+    <li><strong>Outils :</strong> Word, Excel, PowerPoint, Access, SPSS, Odoo, XML, Data Mining, LaTeX</li>
+  </ul>
+</details>
 
-#### Compétences Mathématiques :
-*  Analyse numérique, Probabilité et statistique, Algèbre linéaire, Recherche opérationnelle, Traitement d’images, Théorie des graphes.
-*  Principes d’optimisation numérique : méthodes de descente, décomposition
- (ADMM), gradient continu (flow).
+<details>
+  <summary>📐 Compétences Mathématiques</summary>
+  <ul>
+    <li>Analyse numérique, Probabilités, Statistiques</li>
+    <li>Algèbre linéaire, Recherche opérationnelle</li>
+    <li>Théorie des graphes, Traitement d’images</li>
+    <li>Optimisation numérique : descente de gradient, ADMM, gradient flow</li>
+  </ul>
+</details>
 
-#### Compétences en intelligence artificielle et apprentissage automatique :
-* Conception et entraînement de réseaux de neurones convolutifs (CNN).
-* Maîtrise des architectures profondes : ResNet, Deep Image Prior (DIP).
-* Traitement d’images par apprentissage profond.
-* Optimisation des modèles avec des méthodes numériques : descente de gradient et variantes (Nesterov, avec redémarrage), gradient flow, ADMM, Adam.
+<details>
+  <summary>🧠 Intelligence Artificielle et Apprentissage Automatique</summary>
+  <ul>
+    <li>Conception de réseaux de neurones convolutifs (CNN)</li>
+    <li>Maîtrise d’architectures : ResNet, Deep Image Prior (DIP)</li>
+    <li>Traitement d’images par apprentissage profond</li>
+    <li>Optimisation de modèles : Nesterov, avec redémarrage, gradient flow, ADMM, Adam</li>
+  </ul>
+</details>
