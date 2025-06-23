@@ -62,3 +62,37 @@ redirect_from:
   </ul>
 </details>
 
+---
+
+<details>
+  <summary>📅 <strong>Organisation de Manifestations Scientifiques</strong></summary>
+  <ul>
+    <li>
+      <strong>21–31 Mai 2025</strong> – Participation à l’organisation de 
+      <a href="https://cimpa.este.ovh/" target="_blank">
+        CIMPA School 2025
+      </a> 
+      sur le thème : <em>"Transport Optimal, EDP et Optimisation – Applications en Sciences des Données"</em>, Essaouira, Maroc.
+    </li>
+    <li>
+      <strong>21 Février 2025</strong> – Participation à l’organisation du 
+      <em>7<sup>ème</sup> Workshop Mathématiques, Informatique et Modélisation des systèmes complexes</em>, Essaouira, Maroc.
+    </li>
+    <li>
+      <strong>24 Novembre 2023</strong> – Organisation du 
+      <em>Workshop 1 – Modèles mathématiques : État de l’art, EDP et TOM</em>, Essaouira, Maroc.
+    </li>
+    <li>
+      <strong>14–15 Juillet 2023</strong> – Participation à l’organisation du 
+      <em>5<sup>ème</sup> Workshop Mathématiques, Informatique et Modélisation des systèmes complexes</em>, Essaouira, Maroc.
+    </li>
+    <li>
+      <strong>11 Mars 2023</strong> – Participation à l’organisation de la formation pédagogique : 
+      <em>"Full Stack SPRING / REACT"</em>, Essaouira, Maroc.
+    </li>
+    <li>
+      <strong>16–17 Décembre 2022</strong> – Organisation du 
+      <em>4<sup>ème</sup> Workshop Mathématiques, Informatique et Modélisation des systèmes complexes</em>, Essaouira, Maroc.
+    </li>
+  </ul>
+</details>
