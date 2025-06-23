@@ -155,7 +155,8 @@ author_profile: true
 
 ---
 
-### Encadrement des PFEs:
+<details>
+<summary> <h1> Encadrement des PFEs:</h1></summary>
 <ul>
   <li>📄 Plateforme Web Intelligente pour la Détection Automatique de Tumeurs : Intégration d’Algorithmes d’IA et d’Imagerie Médicale</li>
   
@@ -166,4 +167,4 @@ author_profile: true
   <li>📄 Applications Matlab pour la restauration d’images</li>
   <li>📄 Développement d'une plateforme pour l’analyse des données</li>
 </ul>
-
+</details>
