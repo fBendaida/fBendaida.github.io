@@ -161,7 +161,7 @@ author_profile: true
 <ul>
   <li>📄 Plateforme Web Intelligente pour la Détection Automatique de Tumeurs : Intégration d’Algorithmes d’IA et d’Imagerie Médicale</li>
   
-  <li>📄 LEARNIFY: Plateforme Web et Application Mobile pour l’E-learning en Développement Logiciel.</li>
+  <li>📄 LEARNIFY: Plateforme Web et Application Mobile pour l’E-learning en Développement Logiciel</li>
   
   <li>📄 Ticketa: Plateforme Web pour la création et l'organisation des événements</li>
   <li>📄 Application web pour la détection du masque facial</li>
