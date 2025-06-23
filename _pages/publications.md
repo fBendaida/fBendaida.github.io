@@ -11,10 +11,9 @@ author_profile: true
 * [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine[Nonlocal p-Laplacian involving a nonlinear fractional reaction-diffusion system applied to image restoration](https://doi.org/10.1016/j.camwa.2023.10.001), Computers & Mathematics with Applications, 2023.
 * [F.Bendaida](https://fbendaida.github.io/), [Nonlocal Model for Reconstructing Images Corrupted by Cauchy Noise](https://doi.org/10.2478/mjpaa-2023-0003). Moroccan Journal of Pure and Applied Analysis, 2023.
 * [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and L. Ziad. An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise, Soumis.
-*[F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and L. Ziad. A nonlinear and nonlocal Perona Malik system involving fractional diffusion for image Restoration, Soumis.
-*[F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and L. Ziad. A Nonlinear Second Order Problem Involving Nonlocal Diffusion For Image Processing, Soumis.
-
-*[F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine, Image Super-Resolution by a degenerate nonlocal model, en cours.
+* [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and L. Ziad. A nonlinear and nonlocal Perona Malik system involving fractional diffusion for image Restoration, Soumis.
+* [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and L. Ziad. A Nonlinear Second Order Problem Involving Nonlocal Diffusion For Image Processing, Soumis.
+* [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine, Image Super-Resolution by a degenerate nonlocal model, en cours.
 
 *[F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine, Nonlocal p-Laplacian model for mixed noise removal involving Cauchy noise, en cours.
 
