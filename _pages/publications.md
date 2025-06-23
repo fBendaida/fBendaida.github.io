@@ -14,8 +14,7 @@ author_profile: true
 * [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and L. Ziad. A nonlinear and nonlocal Perona Malik system involving fractional diffusion for image Restoration, Soumis.
 * [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and L. Ziad. A Nonlinear Second Order Problem Involving Nonlocal Diffusion For Image Processing, Soumis.
 * [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine, Image Super-Resolution by a degenerate nonlocal model, en cours.
-
-*[F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine, Nonlocal p-Laplacian model for mixed noise removal involving Cauchy noise, en cours.
+* [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine, Nonlocal p-Laplacian model for mixed noise removal involving Cauchy noise, en cours.
 
 ### Communications:
 * [F.Bendaida](https://fbendaida.github.io/), [F.Karami](http://este.uca.ma/mmsc/Karami.html) and D.Meskine **An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise**, 7ème Workshop Mathématiques, Informatique et Modélisation des systèmes complexes Essaouira - Maroc, 21 Février 2025.
