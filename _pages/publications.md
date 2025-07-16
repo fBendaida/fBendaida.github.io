@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Publications:
+## Publications:
 
-## 📄 Articles publiés
+### 📄 Articles publiés
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine. [**Nonlocal p-Biharmonic model for Cauchy noise removal**](https://doi.org/10.3934/mfc.2025003). *Mathematical Foundations of Computing*, 2025.  
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine.
+- [**Nonlocal p-Biharmonic model for Cauchy noise removal**](https://doi.org/10.3934/mfc.2025003).
+- *Mathematical Foundations of Computing*, 2025.  
   **Clarivate Analytics Impact Factor 2025:** 1.3  
   **SJR 2024:** 0.563 — **Category:** Q2
 
@@ -30,7 +32,7 @@ author_profile: true
 
 ---
 
-## 📚 Chapitres d’ouvrage
+### 📚 Chapitres d’ouvrage
 
 - A. Atlas, J. Attmani, [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html).  
   *A Novel Dynamic Threshold Model for Image Restoration*.  
@@ -42,7 +44,7 @@ author_profile: true
 
 ---
 
-## 📝 Travaux en cours / Soumis
+### 📝 Travaux en cours / Soumis
 
 - [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, L. Ziad.  
   *An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise*.  
