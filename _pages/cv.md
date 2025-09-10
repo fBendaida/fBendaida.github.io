@@ -12,11 +12,11 @@ redirect_from:
 <details open>
   <summary>🎓 <strong>Cursus Universitaire</strong> </summary>
   <ul>
-    <li>2024 : Doctorat en Informatique et Mathématiques Appliquées – FST Marrakech, UCA</li>
-    <li>2017 : Master spécialisé – Université Chouaib Doukkali, El Jadida</li>
-    <li>2015 : Licence professionnelle – EST Essaouira, UCA</li>
-    <li>2013 : DUT Génie Informatique – EST Essaouira, UCA</li>
-    <li>2011 : Baccalauréat Sciences Math A – Lycée Med 5, Essaouira</li>
+    <li>Doctorat en Informatique et Mathématiques Appliquées – FST Marrakech, UCA</li>
+    <li>Master spécialisé – Université Chouaib Doukkali, El Jadida</li>
+    <li>Licence professionnelle – EST Essaouira, UCA</li>
+    <li>DUT Génie Informatique – EST Essaouira, UCA</li>
+    <li>Baccalauréat Sciences Math A – Lycée Med 5, Essaouira</li>
   </ul>
 </details>
 
