@@ -25,18 +25,18 @@ author:
   avatar           : "profile.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Docteur en Informatique et Mathématiques Appliquées"
-  location         : "Essaouira, Maroc"
+  bio              : "Enseignante-Chercheuse en Informatique & Mathématiques Appliquées"
+  location         : "Safi, Maroc"
   employer         : "Université Cadi Ayyad"
   uri              : # URL
-  email            : "fatiha.bendaida@gmail.com" 
+  email            : "f.bendaida@uca.ac.ma" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=4N_7-gwAAAAJ&hl=fr"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-7315-393X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # "https://www.researchgate.net/profile/Fatiha-Bendaida?ev=hdr_xprf"
