@@ -8,9 +8,9 @@ redirect_from:
 ---
 ## Bonjour, un peu sur moi:
 
-Je suis Dr Fatiha BENDAIDA, professeure de l’enseignement Secondaire Qualifiant de l’informatique, passionnée par la pédagogie, la recherche, la programmation et les bases de données.
+Je suis Dr Fatiha BENDAIDA, maîtresse de conférences à l’École Nationale des Sciences Appliquées de Safi (ENSA Safi), spécialisée en informatique et mathématiques appliquées.
 
-Titulaire d’un doctorat en informatique et mathématiques appliquées, j’enseigne aujourd’hui aussi bien dans le secondaire que dans l’enseignement supérieur, notamment en classes préparatoires au BTS et à l’université.
+Titulaire d’un doctorat dans ces domaines, mes activités s’articulent autour de l’enseignement universitaire, de la recherche scientifique et de l’encadrement d’étudiants. Je m’intéresse également aux approches pédagogiques innovantes visant à améliorer l’apprentissage dans les filières scientifiques et techniques.
 
 ### Thèmes de recherche:
 
