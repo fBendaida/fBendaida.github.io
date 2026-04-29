@@ -9,8 +9,7 @@ author_profile: true
 
 ### 📄 Articles publiés
 
-[F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, L. Ziad. [**A Nonlinear Second Order Problem Involving Nonlocal Diffusion for Image Processing**](https://doi.org/10.1007/s40314-026-03747-9),*. Comp. Appl. Math.*, 2026.
- 
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, L. Ziad. [**A Nonlinear Second Order Problem Involving Nonlocal Diffusion for Image Processing**](https://doi.org/10.1007/s40314-026-03747-9),*. Comp. Appl. Math.*, 2026.
   **Clarivate Analytics Impact Factor 2024:** 2.5  
   <!--**SJR 2024:** 0.563 — **Category:** Q1-->
 
