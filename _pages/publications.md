@@ -9,7 +9,7 @@ author_profile: true
 
 ### 📄 Articles publiés
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, L. Ziad. [**A Nonlinear Second Order Problem Involving Nonlocal Diffusion for Image Processing**](https://doi.org/10.1007/s40314-026-03747-9),*. Comp. Appl. Math.*, 2026.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). [**A Nonlinear Second Order Problem Involving Nonlocal Diffusion for Image Processing**](https://doi.org/10.1007/s40314-026-03747-9),*. Comp. Appl. Math.*, 2026.
 
   **Clarivate Analytics Impact Factor 2024:** 2.5  
   **SJR 2024:** 0.631 — **Category:** Q1
@@ -43,9 +43,9 @@ author_profile: true
 
 ### 📝 Travaux en cours / Soumis
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, L. Ziad. **An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise**, Soumis.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). **An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise**, Soumis.
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, L. Ziad. **A nonlinear and nonlocal Perona–Malik system involving fractional diffusion for image restoration**, Soumis.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). **A nonlinear and nonlocal Perona–Malik system involving fractional diffusion for image restoration**, Soumis.
 
 - [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine. **Image Super-Resolution by a Degenerate Nonlocal Model**, En cours.
 
