@@ -9,20 +9,20 @@ author_profile: true
 
 ### 📄 Articles publiés
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). [**A Nonlinear Second Order Problem Involving Nonlocal Diffusion for Image Processing**](https://doi.org/10.1007/s40314-026-03747-9),*. Comp. Appl. Math.*, 2026.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and [L. Ziad](https://ziadlamia.github.io/). [**A Nonlinear Second Order Problem Involving Nonlocal Diffusion for Image Processing**](https://doi.org/10.1007/s40314-026-03747-9),*. Comp. Appl. Math.*, 2026.
 
   **Clarivate Analytics Impact Factor 2024:** 2.5  
   **SJR 2024:** 0.631 — **Category:** Q1
 
   ---
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine. [**Nonlocal p-Biharmonic model for Cauchy noise removal**](https://doi.org/10.3934/mfc.2025003). *Mathematical Foundations of Computing*, 2025.  
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html) and D. Meskine. [**Nonlocal p-Biharmonic model for Cauchy noise removal**](https://doi.org/10.3934/mfc.2025003). *Mathematical Foundations of Computing*, 2025.  
   **Clarivate Analytics Impact Factor 2025:** 1.3  
   **SJR 2024:** 0.563 — **Category:** Q2
 
 ---
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine. [**Nonlocal p-Laplacian involving a nonlinear fractional reaction-diffusion system applied to image restoration**](https://doi.org/10.1016/j.camwa.2023.10.001).*Computers & Mathematics with Applications*, 2023, vol. 152, pp. 56–66.  
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html) and D. Meskine. [**Nonlocal p-Laplacian involving a nonlinear fractional reaction-diffusion system applied to image restoration**](https://doi.org/10.1016/j.camwa.2023.10.001).*Computers & Mathematics with Applications*, 2023, vol. 152, pp. 56–66.  
   **Clarivate Analytics Impact Factor 2023:** 2.9  
   **SJR 2023:** 0.86 — **Category:** Q1
 
@@ -37,7 +37,7 @@ author_profile: true
 
 - J. ATTMANI, [F. Bendaida](https://fbendaida.github.io/) and A. BEKKARI. [**Nonlocal Image Denoising via Threshold-Based Diffusion and $H^{-s}$ Fidelity**](https://doi.org/10.1007/978-3-032-17079-8_1),  Springer Proceedings in Mathematics and Statistics Open source preview, 2026, Cham: Springer Nature Switzerland., pp. 1–14.
  
-- S.GOUNANE, [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), J. BAKKAS. [**Wasserstein Distance for K-Means Clustering**](https://doi.org/10.1109/ADACIS65663.2025.11436726), Proceedings - 2025 IEEE International Conference on Advances in Data-Driven Analytics and Intelligent Systems, ADACIS 2025 Open source preview, 2025.
+- S.GOUNANE, [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html) and J. BAKKAS. [**Wasserstein Distance for K-Means Clustering**](https://doi.org/10.1109/ADACIS65663.2025.11436726), Proceedings - 2025 IEEE International Conference on Advances in Data-Driven Analytics and Intelligent Systems, ADACIS 2025 Open source preview, 2025.
 
 - A. ATLAS, J. ATTMANI, [F. Bendaida](https://fbendaida.github.io/) and [F. Karami](http://este.uca.ma/mmsc/Karami.html) [**A Novel Dynamic Threshold Model for Image Restoration**](https://doi.org/10.1007/978-3-032-19398-8_1), In International Conference on Research in Applied Mathematics and Computer Science, 2025.
 
@@ -46,13 +46,13 @@ author_profile: true
 ### 📝 Travaux en cours / Soumis
 
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). **An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise**, Soumis.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and [L. Ziad](https://ziadlamia.github.io/). **An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise**, Soumis.
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). **A nonlinear and nonlocal Perona–Malik system involving fractional diffusion for image restoration**, Soumis.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik and [L. Ziad](https://ziadlamia.github.io/). **A nonlinear and nonlocal Perona–Malik system involving fractional diffusion for image restoration**, Soumis.
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine. **Image Super-Resolution by a Degenerate Nonlocal Model**, En cours.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html) and D. Meskine. **Image Super-Resolution by a Degenerate Nonlocal Model**, En cours.
 
-- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine. **Nonlocal p-Laplacian Model for Mixed Noise Removal Involving Cauchy Noise**, En cours.
+- [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html) and D. Meskine. **Nonlocal p-Laplacian Model for Mixed Noise Removal Involving Cauchy Noise**, En cours.
 
 
 ### Communications:
