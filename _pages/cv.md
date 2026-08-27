@@ -68,6 +68,28 @@ redirect_from:
   <summary>📅 <strong>Organisation de Manifestations Scientifiques</strong></summary>
   <ul>
     <li>
+  <strong>14 Mai 2026</strong> – <strong>Présidente de session scientifique</strong> à la 
+  <a href="https://ic4s.uca.ma/" target="_blank">
+    1ère Conférence Internationale sur la Cybersécurité, les Systèmes et les Solutions Intelligentes (IC4S’26)
+  </a>, Safi, Maroc.
+  <br>
+  <em>Présidence de la Session C : Data Science, Big Data, and Cloud Computing.</em>
+</li>
+
+<li>
+  <strong>12–14 Mai 2026</strong> – Participation à l’organisation de la 
+  <a href="https://ic4s.uca.ma/" target="_blank">
+    International Conference on CyberSecurity, Systems &amp; Smart Solutions (IC4S’26)
+  </a>, Safi, Maroc.
+</li>
+
+<li>
+  <strong>25–26 Septembre 2025</strong> – Participation à l’organisation de la 
+  <a href="http://este.uca.ma/mmsc/ICCDMS/" target="_blank">
+    International Conference on Complex Dynamics: Modeling and Simulation
+  </a>, Essaouira, Maroc.
+</li>
+    <li>
       <strong>21–31 Mai 2025</strong> – Participation à l’organisation de 
       <a href="https://cimpa.este.ovh/" target="_blank">
         CIMPA School 2025
