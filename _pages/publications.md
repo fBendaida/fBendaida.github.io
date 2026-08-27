@@ -35,13 +35,15 @@ author_profile: true
 
 ### 📚 Chapitres d’ouvrage
 
-- A. Atlas, J. Attmani, [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html). **A Novel Dynamic Threshold Model for Image Restoration**. Chapitre accepté, Springer Nature.
+- J. ATTMANI, [F. Bendaida](https://fbendaida.github.io/) and A. BEKKARI. [**Nonlocal Image Denoising via Threshold-Based Diffusion and $H^{-s}$ Fidelity**](https://doi.org/10.1007/978-3-032-17079-8_1),  Springer Proceedings in Mathematics and Statistics Open source preview, 2026, Cham: Springer Nature Switzerland., pp. 1–14.
 
-- N. Elhaya, [F. Bendaida](https://fbendaida.github.io/), F. Sniba, Y. Barkouch. **Modelling Slow Sand Filtration for Wastewater Reuse: An Innovative Approach to Enhancing Climate Resilience**. Chapitre accepté, Springer Nature.
+- S.GOUNANE, [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), J. BAKKAS. [**Wasserstein Distance for K-Means Clustering**](https://doi.org/10.1109/ADACIS65663.2025.11436726), Proceedings - 2025 IEEE International Conference on Advances in Data-Driven Analytics and Intelligent Systems, ADACIS 2025 Open source preview, 2025 
 
+- A. ATLAS, J. ATTMANI, [F. Bendaida](https://fbendaida.github.io/) and [F. Karami](http://este.uca.ma/mmsc/Karami.html). *[**A Novel Dynamic Threshold Model for Image Restoration**](https://doi.org/10.1007/978-3-032-19398-8_1),  In International Conference on Research in Applied Mathematics and Computer Science, 2025.
 ---
 
 ### 📝 Travaux en cours / Soumis
+
 
 - [F. Bendaida](https://fbendaida.github.io/), [F. Karami](http://este.uca.ma/mmsc/Karami.html), D. Meskine, K. Sadik, [L. Ziad](https://ziadlamia.github.io/). **An Adaptive Total Variation Deep Image Prior Model for Reconstructing Images Corrupted by Cauchy Noise**, Soumis.
 
