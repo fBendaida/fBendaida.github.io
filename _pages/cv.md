@@ -67,7 +67,6 @@ redirect_from:
 <details>
   <summary>📅 <strong>Organisation de Manifestations Scientifiques</strong></summary>
   <ul>
-   ```html
 <li>
   <strong>14 Mai 2026</strong> – <strong>Présidente de session scientifique</strong> lors de la
   <a href="https://ic4s.uca.ma/" target="_blank">
